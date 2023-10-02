@@ -1,0 +1,15 @@
+com\enviro\assessment\grad001\alithembamakongwana\demo\DemoApplication.class
+com\enviro\assessment\grad001\alithembamakongwana\demo\InvestorRepository.class
+com\enviro\assessment\grad001\alithembamakongwana\demo\ProductController.class
+com\enviro\assessment\grad001\alithembamakongwana\demo\ProductRepository.class
+com\enviro\assessment\grad001\alithembamakongwana\demo\ProductService.class
+com\enviro\assessment\grad001\alithembamakongwana\demo\InvestorController.class
+com\enviro\assessment\grad001\alithembamakongwana\demo\InvestorService.class
+com\enviro\assessment\grad001\alithembamakongwana\demo\WithdrawalNoticeDTO.class
+com\enviro\assessment\grad001\alithembamakongwana\demo\Investor.class
+com\enviro\assessment\grad001\alithembamakongwana\demo\WithdrawalNoticeController.class
+com\enviro\assessment\grad001\alithembamakongwana\demo\WithdrawalNoticeRepository.class
+com\enviro\assessment\grad001\alithembamakongwana\demo\Product.class
+com\enviro\assessment\grad001\alithembamakongwana\demo\WithdrawalNoticeService.class
+com\enviro\assessment\grad001\alithembamakongwana\demo\ProductType.class
+com\enviro\assessment\grad001\alithembamakongwana\demo\WithdrawalNotice.class
